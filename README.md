@@ -3,8 +3,8 @@ This is the solution for Machine Learning Assignment. It aims to solve fligt del
 The src folder contains main.py code along with documentation about eachs section
 The requirements.txt contains the required libraries
 
+There are two python files as follow:
 Trial(1): Models are used with one predictor (flight duration)
-
 Trial(2): Models are used with three predictors (flight duration,Departure Airport, Destination Airport)
 
 # Running the socurce code
