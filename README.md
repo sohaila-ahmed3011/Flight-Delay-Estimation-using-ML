@@ -4,4 +4,4 @@ The src folder contains main.py code along with documentation about eachs sectio
 The requirements.txt contains the required libraries
 
 # Running the socurce code
-Just run the main.py file and the results will be displayed for all models. 
+Just run the main.py file and the results will be displayed for all models. Ensure that all required libraries are installed first
