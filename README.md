@@ -10,6 +10,6 @@ Trial(1): Models are used with one predictor (flight duration)
 Trial(2): Models are used with three predictors (flight duration,Departure Airport, Destination Airport)
 
 # Running the socurce code
-Just run the main1.py file and the results will be displayed for all models for trial 1. 
-Just run the main2.py file and the results will be displayed for all models for trial 2. 
-Ensure that all required libraries are installed first before running either of the two files.
+- Just run the main1.py file and the results will be displayed for all models for trial 1. 
+- Just run the main2.py file and the results will be displayed for all models for trial 2. 
+- Ensure that all required libraries are installed first before running either of the two files.
